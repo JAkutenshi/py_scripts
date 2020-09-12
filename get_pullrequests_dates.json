@@ -1,0 +1,20 @@
+{
+  "github": {
+    "account": "your_github_account_name",
+    "token": "put_token_here"
+  },
+  "courses": [
+    {
+      "title": "os",
+      "year": 2020,
+      "groups": [
+        {
+          "id": "8381",
+          "students": {
+            "github_account": "John Titor"
+          }
+        }
+      ]
+    }
+  ]
+}
